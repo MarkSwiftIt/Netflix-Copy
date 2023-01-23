@@ -17,8 +17,10 @@ The following tools were used in this project:
 - Swift 
 - UIKit 
 - Xcode 
+- MVVM
 - Core Data 
 - TMDB API 
 - Youtube API
+
 
 https://user-images.githubusercontent.com/99256270/214012381-dacac8d1-e9d1-48d7-a2ad-a495a0728a84.mov

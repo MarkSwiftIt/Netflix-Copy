@@ -14,3 +14,5 @@ Xcode
 Core Data
 TMDB API
 Youtube API
+
+[TrailerNetflix.mov.zip](https://github.com/MarkSwiftIt/Netflix-Copy/files/10478526/TrailerNetflix.mov.zip)

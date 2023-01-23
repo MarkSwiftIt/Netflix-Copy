@@ -15,4 +15,4 @@ Core Data
 TMDB API
 Youtube API
 
-[TrailerNetflix.mov.zip](https://github.com/MarkSwiftIt/Netflix-Copy/files/10478526/TrailerNetflix.mov.zip)
+https://user-images.githubusercontent.com/99256270/214012381-dacac8d1-e9d1-48d7-a2ad-a495a0728a84.mov
